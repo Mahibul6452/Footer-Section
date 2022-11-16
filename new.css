@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+section {
+
+    background-color: #48b4e9;
+    /*! padding: 146px 0 0 50px; */
+}
+
+.Head {
+    width: 1400px;
+    margin: auto;
+}
+
+.Head h1 {
+
+    font-family: 'Noto Serif', serif;
+    font-size: 38px;
+    color: white;
+    /*! padding: ; */
+    margin-top: 300px;
+    /*! padding-bottom: 50px; */
+}
+
+.Head p {
+    font-family: 'Noto Serif', serif;
+    font-size: 21px;
+}
+
+.all-input {
+    margin-top: 50px;
+}
+
+.all-input h4 {
+    font-size: 24px;
+    color: black;
+    margin-top: 5px;
+}
+
+.all-input input {
+
+    margin: 2px;
+    padding: 5px;
+}
+
+.all-input checkbox {}
+
+.all-input span {
+    /*! width: 203px; */
+    /*! height: 103px; */
+    /*! padding: 13px; */
+}
+
+.all-input button {
+    padding: 3px;
+    width: 354px;
+    height: 49px;
+    font-size: 18px;
+    background-color: #ff525f;
+    color: white;
+    margin-top: 20px;
+    /*! text-decoration: capi; */
+    text-decoration: capital;
+    text-transform: uppercase;
+    margin-bottom: 100px;
+}
